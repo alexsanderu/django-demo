@@ -1,2 +1,2 @@
 # django-demo
-Aplicação de enquete feita em Django e Python.
+Aplicação feita com base no estudo da documentação do Django.
